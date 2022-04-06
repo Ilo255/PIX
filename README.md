@@ -27,6 +27,12 @@ Tout comme Ellapse, le fonction de la VR est ici **didactique** car elle permet 
 
 Kinside est un jeu mobile qui consiste à s'occuper de ses plantes qui poussent. C'est un bon exemple de slow design car ce n'est pas un **jeu qui invite à prendre son temps** et à regarder ses plantes pousser au fil des semaines. La 3D intervient ici pour créer une **bulle de réconfort** au milieu de ses plantes. Cette utilisation-ci de la 3D me questionne un peu car je ne comprends pas bien **ce que cela peut apporter de plus qu'une vraie plante**. Est-ce pour occuper son temps d'écran autrement, comme lorsqu'on est dans le métro loin de ses vraies plantes?  
 
-### Comment la gamification peut aider à la conduite du changement en entreprise?
+### 7. Comment la gamification peut aider à la conduite du changement en entreprise? - Alexandre Duarte et Mickaël Burow Fidback
+
+Cet atelier était plutôt intéressant car je ne me suis jamais trop attardée sur l'effet gamification de mes productions mais ça pourrait être intéressant pour plus tard pour faire un levier motivant. Cela a surtout été un bon moyen de récupérer des références très intéressantes, comme l'application [Zombies, run!](https://apps.apple.com/us/app/zombies-run/id503519713) qui encourage à courir en immergeant l'utilisateur dans un monde post-apocalyptique envahit pas des zombies qu'il doit fuir. 
+
+### 8. Quand l'art rencontre l'entreprise: pour des visions corporate innovantes! - Claudia Ferrazzi, fondatrice et présidente chez Viatre
+
+
 
 
