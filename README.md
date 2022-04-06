@@ -29,10 +29,12 @@ Kinside est un jeu mobile qui consiste à s'occuper de ses plantes qui poussent.
 
 ### 7. Comment la gamification peut aider à la conduite du changement en entreprise? - Alexandre Duarte et Mickaël Burow Fidback
 
-Cet atelier était plutôt intéressant car je ne me suis jamais trop attardée sur l'effet gamification de mes productions mais ça pourrait être intéressant pour plus tard pour faire un levier motivant. Cela a surtout été un bon moyen de récupérer des références très intéressantes, comme l'application [Zombies, run!](https://apps.apple.com/us/app/zombies-run/id503519713) qui encourage à courir en immergeant l'utilisateur dans un monde post-apocalyptique envahit pas des zombies qu'il doit fuir. 
+Cet atelier était plutôt intéressant car je ne me suis jamais trop attardée sur l'effet gamification de mes productions mais ça pourrait être intéressant pour plus tard pour faire un levier motivant. Cela a surtout été un bon moyen de récupérer des **références très intéressantes**, comme l'application [Zombies, run!](https://apps.apple.com/us/app/zombies-run/id503519713) qui encourage à courir en immergeant l'utilisateur dans un monde post-apocalyptique envahit pas des zombies qu'il doit fuir. 
 
 ### 8. Quand l'art rencontre l'entreprise: pour des visions corporate innovantes! - Claudia Ferrazzi, fondatrice et présidente chez Viatre
 
+La transition entre les conférences de la matinée et celle-ci était assez **abrute** car elle abordait la question des **softskills** et la place de l'Art dans l'entreprise. J'ai bien aimé le concept mais cela **manquait trop d'expériences concrètes pour moi**, probablement à cause des innovations que j'avais découvert le matin même. Ce que j'en tire quand même, c'est la **synergie entre deux groupes qui n'ont rien à voir,** c'est-à-dire les **artistes** et les **employés des entreprises**. J'ai par exemple aimé découvrir qu'on travaillait avec des scénaristes pour leurs **compétences de storytelling** qui apprenaient aux employés à **imaginer des univers de sens**. Cela vaut aussi pour des musiciens dont on s'inspire pour leur travail de **coordination**, mais aussi pour les photographes qui permettent de questionner les employés sur l'**image qu'ils renvoient**. Ainsi, cette conférence m'a rappelé de **ne pas me renfermer sur mon travail de designer mais aussi de m'ouvrir aux autres métiers et à leurs compétences respectives**.
 
+### 9. Comment l'UX design permet à Renault d'imaginer les usagers du véhicule de demain - Marc Pinel, expérience vision chef deign chez Renault
 
 
