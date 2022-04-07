@@ -51,10 +51,9 @@ Faire un bon pitch étape par étape, ça commence par...
 5. Présentation de la **cible**, sous forme de **persona**. Il s'agit donc d'analyser qui ils sont, quels sont leurs besoins et ce qu'ils ont déjà tester pour y répondre. Cela permet d'apporter plus de **concret** vis-à-vis de la solution car cela prouve que nous connaissons déjà les clients. 
 6. Présentation de l'**équipe**, qui ils sont tous ensemble, leurs parcours et surtout les compétences qui les projettent comme **experts pour résoudre la problématique**. Cela permet aussi de parler de la **vision, des valeurs et de l'ambition de l'entreprise**.
 7. Mise en place de la **roadmap**, c'est-à-dire des **grandes étapes à venir du projet**. Par exemple, de quels matériels je vais avoir besoin, un sourcing des producteurs à faire, faire un prototype fonctionnel, ect.
-8. 
-
-
-
+8. Présentation du **prévisionnel**. Par exemple, le chiffre d'affaire, le volume de beta-testeurs.
+9. Pour finir, expliquation de la **synergie** qu'il pourrait y avoir entre les **investisseurs et les produits**.
+Quelques conseils pour un pitch réussi: s'exprimer clairement, avec des phrases courtes et percutantes pour ne pas perdre son audience. C'est aussi important de bien s'entraîner en amont pour communiquer son projet avec sérénité. Pour finir, il est inspensable de bien adapater son discours à son interlocuteur (pitch classique ou pitch cocktail).
 
 ### 11. Jeu vidéo, podcast ou encore métavers: Arte évoque sa stratégie multimédia - Caroline Baldeyrou, directrice adjointe du développement numérique chez Arte
 
