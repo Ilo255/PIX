@@ -39,3 +39,22 @@ La transition entre les conférences de la matinée et celle-ci était assez **a
 
 Cette dernière conférence de la journée est probablement celle qui m'a **le plus inspirée** car elle m'a non seulement nourrit **mon interêt pour le design** mais elle a aussi énormément **fait écho au projet d'innovation sur la VR**. Pour synthétiser, le designer-conférencier nous a présenté **l'apparition de la 3D et les difficultés à créer** pour les utilisateurs contemporains dans une entreprise (Renault) installée depuis longtemps à partir des **années 2000**. En effet, ces années marquent un tournant dans le design automobile car c'est l'**écroulement d'un mythe**, celui d'une voiture rapide, libre et puissante, désormais contrainte par les bouchons et les ralentisseurs. Il est ainsi nécessaire d'**innover et de réinventer la voiture**, d'autant plus que l'**arrivée des écrans** transforme ses contemporaines: le client d'hier n'est plus celui d'aujourd'hui, et il faut donc absolument changer les habitudes de Renault. S'en est suivi une longue lutte pour faire comprendre aux responsables de Renault qu'il fallait bouger les choses et ce n'est qu'en 2010, avec l'arrivée de l'Ipad et inspiré par le travail de Tesla, que **les écrans dans les automobile apparaissent**. Pour poursuivre cette manière de concevoir en mettant d'utilisateur au coeur des préoccupations, Renault réinvente aussi un **univers sonore** cohérent et doux et une police de caractère, Read, très lisible et internationale. Cette révolution digitale m'évoque la **révolution actuelle de la VR et la difficulté qu'il y a en général d'innover quand les choses déjà établi semblent bien fonctionner**. C'est donc rassurant de voir que le Département laisse une place à l'innovation pour pouvoir évoluer avec son temps. Par ailleurs, une référence évoquée pendant cette conférence pourrait être intéressante: il s'agit d'une collaboration avec Ubisoft pour la création d'un **trajet en voiture automatique avec un casque VR** sur les yeux. Il nous emmène dans un **monde fictif tout en restant toujours sur la route: ainsi, les tournants de la vraie voiture rend l'expérience encore plus immersive**. 
 
+## 07/04/2022 - J2
+
+### 10. La méthodologie pour réussir son pitch et faire du bon storytelling - Aurélien Tanière, entrepreneurship manager chez Plaine Images
+
+Faire un bon pitch étape par étape, ça commence par...
+1. Planter une **problématique**, un décors dans lequel le public peut se reconnaître et s'identifier. 
+2. Proposer une **solution** qui semble évidente. Avec l'enchaînement de ces deux premières étapes, on peut **engager un maximum de personnes**.
+3. Présentation du **marché** sur lequel on se situe (localisation, typologie du client, contexte légal, administratif)
+4. Présentation des **conccurents** (point faible, point fort, comment eux ils solutionnent) et surtout de **comment on se différencie**, pourquoi **notre solution est la meilleure**. Il est important de noter qu'il y a TOUJOURS un conccurent, même si il ne se situe pas dans le même milieu.
+5. Présentation de la **cible**, sous forme de **persona**. Il s'agit donc d'analyser qui ils sont, quels sont leurs besoins et ce qu'ils ont déjà tester pour y répondre. Cela permet d'apporter plus de **concret** vis-à-vis de la solution car cela prouve que nous connaissons déjà les clients. 
+6. Présentation de l'**équipe**, qui ils sont tous ensemble, leurs parcours et surtout les compétences qui les projettent comme **experts pour résoudre la problématique**. Cela permet aussi de parler de la **vision, des valeurs et de l'ambition de l'entreprise**.
+7. Mise en place de la **roadmap**, c'est-à-dire des **grandes étapes à venir du projet**. Par exemple, de quels matériels je vais avoir besoin, un sourcing des producteurs à faire, faire un prototype fonctionnel, ect.
+8. 
+
+
+
+
+### 11. Jeu vidéo, podcast ou encore métavers: Arte évoque sa stratégie multimédia - Caroline Baldeyrou, directrice adjointe du développement numérique chez Arte
+
